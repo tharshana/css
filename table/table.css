@@ -1,0 +1,35 @@
+<html>
+<head></head>
+<style>
+table,th,td{
+  border: 1px dotted black;
+  width:50%;
+  padding: 20px;
+}
+h1 {
+border: 1px dashed black;
+padding: 50px;
+}
+p {
+  background-color: red;
+  margin: 150px;
+ }
+</style>
+<body>
+<h1> hey uki</h1>
+<p> What's app</p>
+<table>
+    <tr>
+      <th>name</th>
+      <th>age</th>
+    </tr>
+    <tr>
+      <td>Tharshana</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Vavitha</td>
+      <td>19</td>
+</table>
+</body>
+</html>
